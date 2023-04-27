@@ -1,6 +1,7 @@
 import Maps from './Maps';
 
 
+
 export default function Comunidad() {
   return (
     <div className="container-fluid text-center position-relative d-inline-block">
