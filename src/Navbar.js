@@ -2,6 +2,7 @@ import { Link, useMatch, useResolvedPath } from "react-router-dom"
 import { FaBars } from "react-icons/fa";
 
 
+
 export default function Navbar() {
   return (
     <nav className="row navbar navbar-expand-lg position-relative bg-danger fs-5 mx-0 py-0">
@@ -13,7 +14,7 @@ export default function Navbar() {
         <div className="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
           <ul className="navbar-nav">
             <li className="nav-item mx-3">
-              <a className="nav-link active text-white py-3" aria-current="page" href="/tienda">Encuentra tu tienda</a>
+              <a className="nav-link active text-white py-3" aria-current="page" href="/Tienda">Encuentra tu tienda</a>
             </li>
             <li className="nav-item dropdown mx-3">
               <a className="nav-link dropdown-toggle text-white py-3" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">

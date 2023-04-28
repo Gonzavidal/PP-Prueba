@@ -8,7 +8,7 @@ export default function Eventos() {
             <hr className="hr" />
             <div className="row">
                 <div className="col-5 px-5">
-                    <img src={Mapa} alt="MVDP" id="regPhoto" />
+                    <img src={Mapa} alt="Mapa" id="regPhoto" />
 
                 </div>
                 <div className="col-7 px-4">
